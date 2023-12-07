@@ -45,6 +45,12 @@
   <ItemGroup>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="RacingGame.cs" />
+    <Compile Include="Transport\Bus.cs" />
+    <Compile Include="Transport\Camryuha.cs" />
+    <Compile Include="Transport\Car.cs" />
+    <Compile Include="Transport\SportCars.cs" />
+    <Compile Include="Transport\Truck.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
